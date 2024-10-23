@@ -13,7 +13,7 @@ Bachelor's Degree from Qingdao University (QDU), School of Literature and Journa
 
 Executive Director, SLJC Student Union 06/2023-06/2024
 
-**Expected Degree:** Bachelor of Arts in Journalism | GPA: 89.85/100 
+**Expected Degree:** Bachelor of Arts in Journalism \| GPA: 89.85/100 
 
 **Honors:** 1 st Prize of QDU Excellent Scholarships (three consecutive years), QDU Top 100 Outstanding Student Leader (12/2022), Qingdao Top 1000 Outstanding College Student (05/2024)
 

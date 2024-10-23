@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 **GAO Rongxi**，A girl from Inner Mongolia, China. 
 
 Bachelor's Degree from Qingdao University (QDU), School of Literature and Journalism and Communication (SLJC).09/2021-06/2025 

@@ -33,4 +33,4 @@ In terms of values, I regard ‘fairness, responsibility and compassion’ as th
 
 It is this background of upbringing, family education and shaping of values that makes me eager to record the changes of the times with my own brushstrokes, to become a solid bridge connecting the truth and the public, and to contribute my share to the progress of society.
 
-![scenery](../images/scenery.jpg)
+![scenery](../images/scenery.png)

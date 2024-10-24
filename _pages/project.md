@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "project"
+title: "Project"
 permalink: /project/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## 1. Splendid Kunlun Mountains -- Mapping Out a New Blueprint for Education and Revitalization of Villages in Southern Xinjiang
+### 1. Splendid Kunlun Mountains -- Mapping Out a New Blueprint for Education and Revitalization of Villages in Southern Xinjiang
 
 <p align="right">04/2023-12/2023</p>
 
@@ -23,7 +23,7 @@ redirect_from:
 
 ---
  
-## 2. Shandong College Student Ideological and Political Education Short Video Competition   
+### 2. Shandong College Student Ideological and Political Education Short Video Competition   
 
 <p align="right">09/2023</p>
 

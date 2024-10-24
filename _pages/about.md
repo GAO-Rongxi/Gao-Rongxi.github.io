@@ -9,15 +9,18 @@ redirect_from:
 
 **GAO Rongxi**，A girl from Inner Mongolia, China. 
 
-Bachelor's Degree from Qingdao University (QDU), School of Literature and Journalism and Communication (SLJC).09/2021-06/2025 
+Bachelor's Degree from Qingdao University (QDU), School of Literature and Journalism and Communication (SLJC).<nobr>09/2021-06/2025</nobr>
 
-Executive Director, SLJC Student Union 06/2023-06/2024
+Executive Director, SLJC Student Union <nobr>06/2023-06/2024</nobr>
 
 **Expected Degree:** Bachelor of Arts in Journalism \| GPA: 89.85/100 
 
-**Honors:** 1 st Prize of QDU Excellent Scholarships (three consecutive years), QDU Top 100 Outstanding Student Leader (12/2022), Qingdao Top 1000 Outstanding College Student (05/2024)
+**Honors:**   
+1 st Prize of QDU Excellent Scholarships (three consecutive years),   
+QDU Top 100 Outstanding Student Leader (12/2022),  
+Qingdao Top 1000 Outstanding College Student (05/2024)
 
-![photograph](../images/photograph.jpg)
+![photograph](../images/photograph.jpg#pic_center height=400px)
 
 As a young student with a dream of journalism, I grew up in a family full of books and an open atmosphere. My knowledgeable parents planted the seeds of endless exploration of knowledge and truth for me from an early age. I not only learnt to respect history and cherish culture, but also developed a keen sense of observation and a deep understanding of words.
 

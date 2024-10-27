@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Collection"
+permalink: /collection/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ### 1. Videos：
 - [‘46 keys，The Story of Ma Huai Long, the Most excellent Police Officer’](https://mp.weixin.qq.com/s/72ckSHyqZY31UkGtyTQpyw)
 
@@ -11,7 +20,7 @@
 
 -	 Qingdao Shibei District Health Committee Promotional Video
 
-![promotional_image](../images/promotional_image.png)
+![promotional_image](../images/promotional_image.jpg)
  
 -	 ‘2023 Qingdao Transport Tackling Action Large Project Tour - Qingdao Municipal Transport Integration Application Platform’
 

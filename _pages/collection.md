@@ -42,7 +42,7 @@ redirect_from:
 
 ### 3. Master plan：
 
-**1. IP Marketing Plan for Qingdao International Beer Festival**
+**(1) IP Marketing Plan for Qingdao International Beer Festival**
   
 <p align="right">12/2023</p>
     
@@ -53,7 +53,7 @@ redirect_from:
 ![Qingdao_Beer_Festival](../images/Qingdao_Beer_Festival.png)
 
 
-**2. Advertising Proposal for HBN Retinol Firming Essence Lotion**
+**(2) Advertising Proposal for HBN Retinol Firming Essence Lotion**
   
 <p align="right">12/2022</p>
     
